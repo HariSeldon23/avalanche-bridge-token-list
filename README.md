@@ -3,7 +3,7 @@
 
 ### General Requirements
 1. Token should be present on Ethreum Mainnet and verifiable on the [etherscan explorer](https://etherscan.io/).
-2. Token must have a valid Token/ETH Chainlink Price feed on the Ethereum Mainnet
+2. Token must have a [valid Token/ETH Chainlink Price feed on the Ethereum Mainnet](https://data.chain.link/)
 
 ## Adding Your Token
 1. Submit a PR with the following information in the `token_list.json` file. Here is an example using Link:
